@@ -1,0 +1,10 @@
+.products__all {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.products__all li {
+  margin-bottom: 50px;
+}
+
+/*# sourceMappingURL=ProductsAll.css.map */
